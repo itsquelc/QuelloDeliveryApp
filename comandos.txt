@@ -26,3 +26,7 @@ npm install dom-to-image
 
 -- criar uma pasta components
 -- criar um arquivo CustomHeader.tsx e executar rnfs
+
+npm i @gorhom/bottom-sheet
+npx expo install react-native-reanimated react-native-gesture-handler
+npx expo customize babel.config.js
